@@ -1,0 +1,6 @@
+CREATE TABLE accounts (
+  user_id MEDIUMINT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  username VARCHAR(100),
+  pass VARCHAR(100),
+  email VARCHAR(100)
+  );
