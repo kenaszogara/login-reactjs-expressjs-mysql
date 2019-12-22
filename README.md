@@ -22,4 +22,4 @@ under folder: "/login-reactjs-expressjs-mysql/client/"
 $ npm start
 ```
 
-3. Fire up your console:
+3. Fire up your *localhost:3000* 
